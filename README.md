@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/aashish-dhiman/E-Commerce.git
+   git clone https://github.com/pariarul/E-commerce
    cd E-Commerce
    ```
 
